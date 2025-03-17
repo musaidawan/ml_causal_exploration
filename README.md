@@ -1,2 +1,2 @@
-# ml_causal_exploration
-This repository is for science exploration purposes, which implements ML and causal models for learning purposes.
+# ml_causal_exploration:
+Repository for exploration of ML and causal models. 
